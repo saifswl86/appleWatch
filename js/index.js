@@ -12,7 +12,7 @@ $(document).ready(() => {
 
   $(".cart").click(() => {
     $(".cart-body").css({
-      width: "60%",
+      width: "70%",
       visibility: "visible",
     });
   });
